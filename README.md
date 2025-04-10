@@ -62,8 +62,8 @@ Description of the project. What it does, main features, and technologies used.
 
 ## Connect with me
 
-- [YouTube](https://www.youtube.com/@arukee-y9v)
-- [Twitter](https://x.com/RKB20101)
+- [YouTube](https://www.youtube.com/@Tocomoril-Rin)
+- [Twitter](https://x.com/Tocomoril_Rin)
 - [Personal Website](https://Tocomolieeee.github.io/)
 
 ## Code Snippet
