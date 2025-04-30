@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://Tocomolieeee.github.io/images/Kuroiro-Nekomimi_Nittobou.jpg" width="160" alt="Tocomolieeee Logo">
+<img src="https://github.com/Tocomolieeee/Tocomolieeee/blob/main/img/usagi-pajama.jpg" width="160" alt="Tocomolieeee Logo">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Tocomolieeee&hide=stars&show_icons=true&theme=dark&title_color=fbfb00&locale=ja" alt="Tocomolieeee's GitHub stats"></a>
 
 ## Stats
